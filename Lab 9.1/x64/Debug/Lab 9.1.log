@@ -1,0 +1,4 @@
+﻿  Lab 9.1.cpp
+C:\Users\Вова\OneDrive\Рабочий стол\АП\Lab 9.1(A)\Lab 9.1\Lab 9.1.cpp(35,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Вова\OneDrive\Рабочий стол\АП\Lab 9.1(A)\Lab 9.1\Lab 9.1.cpp(38,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Lab 9.1.vcxproj -> C:\Users\Вова\OneDrive\Рабочий стол\АП\Lab 9.1(A)\x64\Debug\Lab 9.1.exe
